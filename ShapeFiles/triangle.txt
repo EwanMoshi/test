@@ -1,0 +1,5 @@
+triangle
+150 150
+0 -75 -75 75 75 75
+blue
+vertical

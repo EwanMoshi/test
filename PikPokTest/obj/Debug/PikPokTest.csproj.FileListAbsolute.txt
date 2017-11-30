@@ -1,0 +1,26 @@
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\bin\Debug\PikPokTest.exe.config
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\bin\Debug\PikPokTest.exe
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\bin\Debug\PikPokTest.pdb
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.Properties.Resources.resources
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.csproj.GenerateResource.Cache
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.exe
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.pdb
+c:\users\ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.PikPokTest.resources
+C:\Users\Ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\bin\Debug\PikPokTest.exe.manifest
+C:\Users\Ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\bin\Debug\PikPokTest.application
+C:\Users\Ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.exe.manifest
+C:\Users\Ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.application
+C:\Users\Ewan\documents\visual studio 2015\Projects\PikPokTest\PikPokTest\obj\Debug\PikPokTest.csprojResolveAssemblyReference.cache
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\bin\Debug\PikPokTest.exe.config
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.exe
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.pdb
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\bin\Debug\PikPokTest.exe.manifest
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\bin\Debug\PikPokTest.application
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\bin\Debug\PikPokTest.exe
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\bin\Debug\PikPokTest.pdb
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.csprojResolveAssemblyReference.cache
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.PikPokTest.resources
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.Properties.Resources.resources
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.csproj.GenerateResource.Cache
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.exe.manifest
+C:\Users\Ewan\Desktop\pikpok\PikPokTest\obj\Debug\PikPokTest.application
